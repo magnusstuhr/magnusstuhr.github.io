@@ -103,7 +103,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #FFF;
+  color: #1E90FF;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -307,8 +307,13 @@ Full-Width Styles
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
   text-align: center;
+  text-indent: -430px;
   position:relative ;
-  padding: -3px 30px 10px;
+  color: white;
+}
+
+#menu a:link {
+	color: white;
 }
 
 #project_title {
