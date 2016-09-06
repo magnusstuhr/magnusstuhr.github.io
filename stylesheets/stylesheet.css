@@ -307,7 +307,7 @@ Full-Width Styles
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
   text-align: center;
-  text-indent: -430px;
+  text-indent: -480px;
   position:relative ;
   color: white;
 }
@@ -315,6 +315,9 @@ Full-Width Styles
 #menu a:link {
 	color: white;
 }
+
+
+
 
 #project_title {
   margin: 0;
