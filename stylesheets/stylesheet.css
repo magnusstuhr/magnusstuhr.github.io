@@ -53,7 +53,7 @@ body {
   color:#373737;
   background: #212121;
   font-size: 16px;
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -63,12 +63,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   color:#222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
-  letter-spacing: -1px;
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 32px;
   font-weight: 700;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -118,7 +118,7 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }
 
-a:hover, a:focus {text-decoration: underline;}
+a:hover, a:focus {text-decoration: none;}
 
 footer a {
   color: #F2F2F2;
@@ -414,15 +414,15 @@ Small Device Styles
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 42px;
   }
 
   h2 {
-    font-size: 24px;
+    font-size: 36px;
   }
 
   h3 {
-    font-size: 21px;
+    font-size: 28px;
   }
 
   h4 {
